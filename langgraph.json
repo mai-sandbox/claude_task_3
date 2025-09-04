@@ -1,0 +1,10 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "company_researcher": {
+      "path": "agent.py:app",
+      "description": "Multi-node company research agent that uses Tavily API to gather comprehensive company information"
+    }
+  },
+  "env": ".env"
+}
