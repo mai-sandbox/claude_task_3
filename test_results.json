@@ -1,0 +1,12 @@
+{
+  "company_name": "OpenAI",
+  "founding_year": 2015,
+  "founder_names": [
+    "Sam Altman",
+    "Elon Musk",
+    "Greg Brockman"
+  ],
+  "product_description": "AI research company developing large language models like ChatGPT and GPT-4",
+  "funding_summary": "Raised over $11 billion including major investment from Microsoft",
+  "notable_customers": "Microsoft, various enterprises using OpenAI API"
+}
